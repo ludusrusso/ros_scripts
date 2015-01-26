@@ -5,12 +5,12 @@ Additional scripts usefull in ROS
 
 ## Installation
 
-``bash
+```bash
 $ git clone git@github.com:ludusrusso/ros_scripts.git
 $ cd ros_scripts
 $ sudo ./install.sh
-``
-`
+```
+
 
 
 ## Scripts
@@ -22,10 +22,9 @@ Here the list of scripts implemented
 Run catkin_make from any folder in a catkin workspace.
 Usage:
 
-``bash
+```bash
 $ cat_make <catkin_make params>
-``
-`
+```
 
 TO DO: enable autocompletion
 
