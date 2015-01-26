@@ -6,7 +6,7 @@ Additional scripts usefull in ROS
 ## Installation
 
 ```bash
-$ git clone git@github.com:ludusrusso/ros_scripts.git
+$ git clone https://github.com/ludusrusso/ros_scripts.git
 $ cd ros_scripts
 $ sudo ./install.sh
 ```
