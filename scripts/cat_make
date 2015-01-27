@@ -4,7 +4,7 @@ while true; do
   if [ -e ".catkin_workspace" ]; then
     catkin_make $@
     break
-  elif [ "$PWD" = "$HOME" ]; then
+  elif [ "$PWD" = "/" ]; then
     echo "No ws in your path!"
     break
   fi
